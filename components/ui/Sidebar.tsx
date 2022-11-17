@@ -4,7 +4,7 @@ import { Box, Divider, Drawer, List, ListItem, ListItemIcon, ListItemText, Typog
 
 import InboxIcon from '@mui/icons-material/Inbox';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
-import { UIContext } from '../../../context/ui';
+import { UIContext } from '../../context/ui';
 
 const menuItems: string[] = ['Inbox', 'Started', 'send Email', 'Draft'];
 
